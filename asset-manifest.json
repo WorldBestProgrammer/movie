@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/https//WorldBestProgrammer/github.io/movie/static/js/main.5842cba0.js",
-    "index.html": "/https//WorldBestProgrammer/github.io/movie/index.html",
-    "main.5842cba0.js.map": "/https//WorldBestProgrammer/github.io/movie/static/js/main.5842cba0.js.map"
+    "main.js": "/movie/static/js/main.5842cba0.js",
+    "index.html": "/movie/index.html",
+    "main.5842cba0.js.map": "/movie/static/js/main.5842cba0.js.map"
   },
   "entrypoints": [
     "static/js/main.5842cba0.js"
